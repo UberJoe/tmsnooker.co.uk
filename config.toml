@@ -1,4 +1,4 @@
-baseurl = "https://actuary-alice-17066.netlify.com"
+baseurl = "/"
 title = "Universal"
 themesDir = "themes"
 theme = "hugo-universal-theme"
