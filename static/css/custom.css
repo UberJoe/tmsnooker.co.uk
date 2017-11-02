@@ -1,0 +1,15 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.home-carousel .dark-mask {
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+}
