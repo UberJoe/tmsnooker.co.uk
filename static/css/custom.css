@@ -13,3 +13,7 @@
   opacity: 0.6;
   filter: alpha(opacity=60);
 }
+
+div.col-md-12 p.pull-right {
+  display: none;
+}

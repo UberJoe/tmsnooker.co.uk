@@ -3,8 +3,9 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
+# Contact Tony
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-
-Please feel free to contact us, our customer service center is working for you 24/7.
+If you have any questions, please do not hesitate to ask. Feel free to put your question below and Tony will respond to you as soon as he can.
+<br><br><br>
+Tel: <a href="tel:+447896366057">+44 7896 366057</a><br>
+Email: <a href="mailto:tonymorgansnooker@gmail.com">tonymorgansnooker@gmail.com</a>
