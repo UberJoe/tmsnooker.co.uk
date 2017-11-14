@@ -96,14 +96,15 @@ paginate = 10
 
     logo = "img/logo.png"
     address = """<p><strong>Tony Morgan</strong>
-        <br>10 Nyland Rd
+        <br>Jesters Snooker Hall
+        <br>Greenbridge Rd
         <br>Swindon
         <br>Wiltshire
-        <br>SN3 3RD
+        <br>SN3 3JD
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "51.5653159"
+    longitude = "-1.7527601"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
